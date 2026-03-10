@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently BCA graduate<br>I am skilled with python, java, HTML, CSS and Javascript<br>
+I am currently BCA graduate<br>I am skilled with Java, HTML, CSS and Javascript, React<br>
 
 
 ## 🌐 Socials:
